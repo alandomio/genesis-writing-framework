@@ -1,5 +1,7 @@
 # Genesis Writing Framework
 
+**G**enerative **E**ngine for **N**arrative & **E**ditorial **S**ystems via **I**terative **S**tructure
+
 > Writing books with AI is not about handing creativity over to a machine. It is about designing a system that can take human imagination and turn it into a high-quality artifact.
 
 ## The Problem
