@@ -1,0 +1,24 @@
+# Book project outputs (not part of the framework)
+books/
+
+# Ralph pipeline runtime files
+.ralph_logs/
+feedback_loop.md
+draft_prose_*.md
+
+# OS
+.DS_Store
+*.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
